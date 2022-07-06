@@ -1,5 +1,6 @@
 # 3.4 Queue Via Stacks
 #Queue via Stacks: Implement a MyQueue class which implements a queue using two stacks.
+# better solution: https://www.youtube.com/watch?v=RzT6YgrGTyg
 #-------------------------------------------------------------------------------
 import unittest
 
