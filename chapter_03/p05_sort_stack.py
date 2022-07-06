@@ -2,6 +2,7 @@
 #an additional temporary stack, but you may not copy the elements into any other data structure
 #(such as an array). The stack supports the following operations: push, pop, peek, and isEmpty.
 #------------------------------------------------------------------------------
+# another solution (not very optimal) : https://www.youtube.com/watch?v=W_lzMUGgeYg
 
 # 3.5 Sort Stacks
 import unittest
