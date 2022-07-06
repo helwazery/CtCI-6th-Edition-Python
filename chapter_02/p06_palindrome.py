@@ -1,3 +1,5 @@
+#Palindrome: Implement a function to check if a linked list is a palindrome.
+-------------------------------------------------------------------------------------------
 import time
 
 from chapter_02.linked_list import LinkedList
