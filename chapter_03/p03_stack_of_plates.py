@@ -6,6 +6,7 @@
 #(that is, pop ( ) should return the same values as it would if there were just a single stack).
 #FOLLOW UP
 #Implement a function popAt (int index) which performs a pop operation on a specific sub-stack.
+#another solution: https://colorfulcodesblog.wordpress.com/2018/01/23/stack-of-plates-cracking-the-code-python/
 #-----------------------------------------------------------------------------------------------------------
 import unittest
 
