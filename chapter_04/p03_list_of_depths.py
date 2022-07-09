@@ -1,6 +1,8 @@
 """
 List of Depths: Given a binary tree, design an algorithm which creates a linked list of all the nodes
 at each depth (e.g., if you have a tree with depth 0, you'll have 0 linked lists).
+
+/// Idea: https://algorithms.tutorialhorizon.com/in-a-binary-tree-create-linked-lists-of-all-the-nodes-at-each-depth/
 """
 from collections import deque
 
