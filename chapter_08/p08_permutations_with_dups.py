@@ -1,3 +1,10 @@
+""""
+Permutations with Dups: Write a method to compute all permutations of a string whose charac-
+ters are not necessarily unique. The list of permutations should not have duplicates.
+
+Solution: https://www.youtube.com/watch?v=qhBVWf0YafA
+
+""""
 def print_perms(string):
     result = []
     letter_count_map = build_freq_table(string)
