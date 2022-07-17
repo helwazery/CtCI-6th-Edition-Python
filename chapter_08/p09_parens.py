@@ -1,5 +1,18 @@
-import unittest
+"""
+Parens: Implement an algorithm to print all valid (e.g., properly opened and closed) combinations
+of n pairs of parentheses.
+EXAMPLE
+Input: 3
+Output:
+« () ) ) J «) (», «» () J
+() (
+(», () () ()
 
+
+SOLUTION: https://www.youtube.com/watch?v=s9fokUqJ76A
+"""
+
+import unittest
 
 def next_permutation(arr):
     i = len(arr) - 1
