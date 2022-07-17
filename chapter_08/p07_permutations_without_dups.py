@@ -1,5 +1,11 @@
+"""
+Permutations without Dups: Write a method to compute all permutations of a string of unique
+characters.
 # Write a method to compute all permutations of a string of unique characters
 
+https://www.youtube.com/watch?v=s7AvT7cGdSo
+"""
+    
 # approach 1: building from permutations of first n-1 characters
 def get_perms(string):
     permutations = []
