@@ -3,7 +3,7 @@ Permutations without Dups: Write a method to compute all permutations of a strin
 characters.
 # Write a method to compute all permutations of a string of unique characters
 
-https://www.youtube.com/watch?v=s7AvT7cGdSo
+SOLUTION: https://www.youtube.com/watch?v=s7AvT7cGdSo
 """
     
 # approach 1: building from permutations of first n-1 characters
