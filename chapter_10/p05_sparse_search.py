@@ -1,3 +1,23 @@
+"""
+Sparse Search: Given a sorted array of strings that is interspersed with empty strings, write a
+method to find the location of a given string.
+EXAMPLE
+Input: ball, {((at",
+((JJ}
+UJJ
+,
+UJJ
+,
+((car",
+teJJ
+,
+((JJ
+,
+((dad",
+((JJ
+,
+Output: 4
+  """
 def sparse_search(arr, item):
     def inner_search(arr, item, low, high):
         middle = ((high - low) // 2) + low
