@@ -1,3 +1,8 @@
+"""
+Sorted Merge: You are given two sorted arrays, A and B, where A has a large enough buffer at the
+end to hold B. Write a method to merge B into A in sorted order.
+SOLUTION: https://www.youtube.com/watch?v=_jpCGpByong
+"""
 def sorted_merge(a, b):
     index = len(a) - 1
     index_b = len(b) - 1
