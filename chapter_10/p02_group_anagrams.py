@@ -1,3 +1,9 @@
+"""
+Group Anagrams: Write a method to sort an array of strings so that all the anagrams are next to
+each other.
+SOLUTION: https://www.youtube.com/watch?v=vzdNOK2oB2E
+
+"""
 from collections import defaultdict
 
 
